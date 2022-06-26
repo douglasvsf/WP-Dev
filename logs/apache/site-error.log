@@ -1,0 +1,8 @@
+[Thu Jun 23 22:55:35.281411 2022] [fcgid:warn] [pid 3156:tid 1356] [client 127.0.0.1:59749] mod_fcgid: read timeout from pipe, referer: http://wp-devs.local/wp-admin/
+[Thu Jun 23 22:55:35.281411 2022] [core:error] [pid 3156:tid 1356] [client 127.0.0.1:59749] End of script output before headers: admin-ajax.php, referer: http://wp-devs.local/wp-admin/
+[Fri Jun 24 14:21:06.859157 2022] [fcgid:warn] [pid 8984:tid 1356] [client 127.0.0.1:59969] mod_fcgid: read timeout from pipe, referer: http://wp-devs.local/wp-admin/
+[Fri Jun 24 14:21:06.859157 2022] [core:error] [pid 8984:tid 1356] [client 127.0.0.1:59969] End of script output before headers: admin-ajax.php, referer: http://wp-devs.local/wp-admin/
+[Sat Jun 25 13:26:32.126190 2022] [fcgid:warn] [pid 540:tid 1352] [client 127.0.0.1:52604] mod_fcgid: read timeout from pipe, referer: http://wp-devs.local/wp-admin/
+[Sat Jun 25 13:26:32.126190 2022] [core:error] [pid 540:tid 1352] [client 127.0.0.1:52604] End of script output before headers: admin-ajax.php, referer: http://wp-devs.local/wp-admin/
+[Sun Jun 26 17:08:17.411966 2022] [fcgid:warn] [pid 4008:tid 1392] [client 127.0.0.1:63774] mod_fcgid: read timeout from pipe, referer: http://wp-devs.local/wp-admin/
+[Sun Jun 26 17:08:17.412965 2022] [core:error] [pid 4008:tid 1392] [client 127.0.0.1:63774] End of script output before headers: admin-ajax.php, referer: http://wp-devs.local/wp-admin/
